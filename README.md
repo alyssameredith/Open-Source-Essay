@@ -7,5 +7,5 @@ The concept of Open Software is an interesting concept. Open source software mea
 
 
 ### Sources
-https://opensource.com/resources/what-open-source
+https://opensource.com/resources/what-open-source \
 https://www.redhat.com/en/topics/open-source/what-is-open-source
